@@ -1,3 +1,5 @@
+**Google-Stock-Prediction-With-LSTM**
+
 Made a Deep learning model, which could predict Google stock prices. Google Stock price dataset was obtained from YAHOO Finance.
 Dataset included opening and closing prices of the last five years (December 2012 to December 2016). Before fitting the data to our model, it had to be preprocessed :
 
